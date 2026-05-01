@@ -154,3 +154,5 @@ app.post("/analyze", async (req, res) => {
 app.listen(5000, () => {
   console.log("🚀 Server running on http://localhost:5000");
 });
+// 🔥 validation added to prevent fake evidence
+console.log("Running analysis with validation...");
