@@ -101,3 +101,4 @@ FINAL CHECK BEFORE OUTPUT
 Return ONLY JSON. No explanation.
 `;
 }
+// enforce strict scoring: execution ≠ problem solving
